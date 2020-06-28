@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WchatApplication {
+public class WChatApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(WchatApplication.class, args);
+        SpringApplication.run(WChatApplication.class, args);
     }
 
 }
